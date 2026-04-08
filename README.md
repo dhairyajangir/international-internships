@@ -1,13 +1,11 @@
 ## 2026 International AI Internships:
 
 ### USA Positions:
-- Internships - **348** available ([FAANG+](/#faang), [Quant](/#quant), [Other](/#other))
-- New Graduate - **227** available ([FAANG+](/NEW_GRAD_USA.md#faang), [Quant](/NEW_GRAD_USA.md#quant), [Other](/NEW_GRAD_USA.md#other))
-
+- Internships - **348** available (FAANG+, Quant, Other)
+- New Graduate - **227** available  (FAANG+, Quant, Other)
 ### International Positions :
-- [Internships](/INTERN_INTL.md) - **324** available ([FAANG+](#faang), [Quant](#quant), [Other](#other))
-- [New Graduate](/NEW_GRAD_INTL.md) - **282** available ([FAANG+](/NEW_GRAD_INTL.md#faang), [Quant](/NEW_GRAD_INTL.md#quant), [Other](/NEW_GRAD_INTL.md#other))
-
+- Internships - **348** available (FAANG+, Quant, Other)
+- New Graduate - **227** available  (FAANG+, Quant, Other)
 
 [:arrow_down_small:End of List](#bottom)
 <a name="top"></a>
