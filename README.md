@@ -31,7 +31,7 @@
 ### Quant
 
 <!-- TABLE_QUANT_START -->
-| Company | Position | Location | Posting | Age |
+| Company | Position | Location | Posting | Duration|
 |---|---|---|---|---|
 | <a href="https://www.citadelsecurities.com/careers"><strong>Citadel Securities</strong></a> | Quantitative Researcher - PhD Intern - Asia | Singapore | <a href="https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-asia/"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 34d |
 | <a href="https://www.citadelsecurities.com/careers"><strong>Citadel Securities</strong></a> | Quantitative Research Analyst Intern - BS/MS - Asia | Singapore | <a href="https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 34d |
@@ -54,7 +54,7 @@
 ### Other
 
 <!-- TABLE_START -->
-| Company | Position | Location | Posting | Age |
+| Company | Position | Location | Posting | Duration |
 |---|---|---|---|---|
 | <a href="https://www.bosch.com/"><strong>Bosch</strong></a> | Internship Data Analyst cum Low-code Developer Intern | Th nh ph H Ch Minh, vn | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000119271453--internship-data-analyst-cum-low-code-developer-intern?oga=true"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | -1d |
 | <a href="https://www.actian.com"><strong>Actian</strong></a> | Conversational AI & Agentic Support Automation Intern - Salesforce | Remote | <a href="https://jobs.lever.co/actian/2c3aedad-c4fb-4a7a-8605-427c9b5cb9b9/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
